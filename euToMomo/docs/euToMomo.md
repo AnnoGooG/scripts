@@ -4,4 +4,4 @@
 2. 浏览器打开导出的HTML，打开开发者工具复制粘贴下面代码回车获取输出结果
 ![image](./chrome.png)
 3. 复制结果后，手动加入到默默背单词的云词典生词本
-![image](./momo.jpeg)
+<image src="./momo.jpeg" width="300" />
